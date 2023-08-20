@@ -1,0 +1,7 @@
+useful links for course slin
+2.05
+https://zalinux.ru/?p=6662
+https://www.opennet.ru/base/sys/linux_lvm2.txt.html
+https://hetmanrecovery.com/ru/recovery_news/lvm-partition-in-linux-os-creation-customization-management-and-recovery-of-lost-data.htm
+https://losst.pro/komanda-fdisk-v-linux
+https://www.dmosk.ru/miniinstruktions.php?mini=mdadm
