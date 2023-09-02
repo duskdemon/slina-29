@@ -5,3 +5,12 @@ https://www.opennet.ru/base/sys/linux_lvm2.txt.html
 https://hetmanrecovery.com/ru/recovery_news/lvm-partition-in-linux-os-creation-customization-management-and-recovery-of-lost-data.htm
 https://losst.pro/komanda-fdisk-v-linux
 https://www.dmosk.ru/miniinstruktions.php?mini=mdadm
+
+2.08
+Revolution OS - фильм
+
+дз
+1 на слайде
+2 утилита на слайде
+3 man 2
+4 *
